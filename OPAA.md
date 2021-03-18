@@ -6,4 +6,4 @@ System.out.println("Hello world");
 
 } 
 
-}
+}return request_fingerprint(request)
